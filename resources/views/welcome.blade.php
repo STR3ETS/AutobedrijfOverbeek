@@ -24,12 +24,13 @@
     </svg>
   </div>
 
+  @include('layouts.header')
+
   <!-- HERO -->
   <div class="w-full h-auto p-2 sm:p-3">
     <div class="w-full h-[420px] sm:h-[520px] md:h-[630px] relative overflow-hidden rounded-xl">
       <video class="w-full h-full inset-0 object-cover absolute z-[1]" src="/assets/hero-bg-home.mp4" autoplay muted loop playsinline></video>
       <div class="w-full h-full absolute z-[2] bg-[#0D1821]/50">
-        @include('layouts.header')
         <div class="max-w-[1400px] mx-auto h-full flex flex-col justify-center px-4">
           <h1 class="text-3xl sm:text-4xl md:text-5xl text-white font-bold mb-4 max-w-[30rem]">Dé vertrouwde garage in Hummelo sinds 1963</h1>
           <p class="text-sm sm:text-base text-white font-medium max-w-[30rem] opacity-80 mb-5">
