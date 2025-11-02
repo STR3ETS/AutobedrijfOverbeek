@@ -1,5 +1,5 @@
 {{-- Header --}}
-<div class="absolute z-[500] top-2 left-0 right-0 ml-auto mr-auto max-w-[1400px] w-full md:py-[2rem] flex items-center justify-between px-3 md:px-0">
+<div class="absolute z-[500] top-2 left-0 right-0 ml-auto mr-auto max-w-[1400px] w-full md:py-[2rem] flex items-center justify-between px-4">
   <a href="/" class="shrink-0" aria-label="Ga naar Home">
     <img src="/assets/logo-overbeek.png" alt="Autobedrijf Overbeek" class="max-w-[150px] lg:max-w-[200px]">
   </a>
