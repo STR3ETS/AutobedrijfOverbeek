@@ -73,7 +73,7 @@
 {{-- Mobiel menu overlay --}}
 <div
   id="mobileNav"
-  class="fixed inset-0 z-[600] hidden"
+  class="fixed w-full h-[100dvh] inset-0 z-[9999] hidden"
   aria-hidden="true"
 >
   {{-- backdrop --}}
