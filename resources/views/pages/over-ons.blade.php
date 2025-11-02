@@ -24,12 +24,13 @@
         </svg>
     </div>
 
+    @include('layouts.header')
+
     {{-- Hero --}}
     <div class="w-full h-auto p-2">
         <div class="w-full h-[420px] md:h-[520px] lg:h-[600px] relative overflow-hidden rounded-xl">
             <video class="w-full h-full inset-0 object-cover absolute z-[1]" src="/assets/hero-bg-home.mp4" autoplay muted loop playsinline></video>
             <div class="w-full h-full absolute z-[2] bg-[#0D1821]/50">
-                @include('layouts.header')
                 <div class="max-w-[1400px] mx-auto h-full flex flex-col justify-center px-4">
                     <h1 class="text-3xl md:text-5xl text-white font-bold mb-4 md:mb-6 max-w-[34rem]">Over ons</h1>
                     <p class="text-sm md:text-base text-white/80 font-medium max-w-[34rem]">
