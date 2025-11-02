@@ -221,7 +221,7 @@
     <div class="max-w-[1440px] mx-auto py-12 sm:py-[5rem] px-4 sm:px-[1.5rem] flex flex-col items-center" id="occasions">
       <div class="w-full flex flex-col sm:flex-row gap-6 sm:gap-8 justify-between items-start sm:items-end mb-6 sm:mb-8">
         <div class="w-full sm:w-1/2">
-          <h2 class="text-2xl sm:text-3xl md:text-4xl text-[#0D1821] font-bold leading-tight">Altijd een betrouwbare<br class="hidden sm:block">occasion op voorraad</h2>
+          <h2 class="text-2xl sm:text-3xl md:text-4xl text-[#0D1821] font-bold leading-tight">Altijd een betrouwbare <br class="hidden sm:block">occasion op voorraad</h2>
         </div>
         <div class="w-full sm:w-1/2 sm:flex sm:justify-end">
           <p class="text-sm sm:text-base text-[#0D1821] font-medium opacity-90 sm:text-end sm:max-w-[80%]">
